@@ -1,5 +1,10 @@
 /*
-
+5
+5 4 3 2 1 
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
 */
 import java.util.*;
 public class numpattern2{
